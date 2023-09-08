@@ -1,1 +1,2 @@
-MIs primerar pruebas con mi repositorio
+Mis primerar pruebas con mi repositorio
+Segunda prueba de mi repositorio en github
